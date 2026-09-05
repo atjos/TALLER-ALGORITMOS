@@ -1,3 +1,5 @@
+# PRUEBA EJERCICIO 10
+
 n = int(input("Ingrese un entero positivo n: "))
 
 cantidad_primos = 0
